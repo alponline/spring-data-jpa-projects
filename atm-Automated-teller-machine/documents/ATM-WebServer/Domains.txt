@@ -1,0 +1,9 @@
+List Domains:
+* Customers
+* Accounts
+* Accounts Types
+* Bank Branchs 
+* Banks
+* Financial Releases
+* Cash
+* Machine Cash
